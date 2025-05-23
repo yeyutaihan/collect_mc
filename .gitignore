@@ -1,0 +1,8 @@
+mc_collect_data
+logs
+minerl
+eval_data
+mc_mem_data
+__pycache__
+main_logs
+*.slurm
